@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdeoyeIbk
 - 👀 I’m interested in solving and developing long-lasting solutions to software related problems
-- 🌱 I’m currently learning JavaScript
+- 👨‍💻 HTML, CSS, Bootstrap, Flex-box, Grid, JavaScript, DOM, JQuery, GIT, Version Control, Node.js, Postman, EJS, RESTful API, SQL, POSTgres.
 - 💞️ I’m looking to collaborate on projects
 - 😄 Sex: Male 
 - ⚡ Fun fact: I crochet
